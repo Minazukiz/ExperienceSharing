@@ -132,7 +132,7 @@ From today on, I will record the experience, learning and pit I have gone throug
   - [x] [钢铁是怎样炼成的 [尼•奥斯特洛夫斯基 / 曹缦西]](./books/Kindle/2020-06-27/钢铁是怎样炼成的.azw3) <img src="https://img.shields.io/badge/-AZW3-red" style="vertical-align:middle;">
   - [x] [青瓷 [浮石]](./books/Kindle/2020-06-27/青瓷.azw3) <img src="https://img.shields.io/badge/-AZW3-red" style="vertical-align:middle;">
   - [x] [骆驼祥子 [老舍]](./books/Kindle/2020-06-27/骆驼祥子（作家榜经典文库）.azw3) <img src="https://img.shields.io/badge/-AZW3-red" style="vertical-align:middle;">
-  - [ ] [人生的枷锁 [毛姆 / 张柏然]](./books/Kindle/2024/人生的枷锁.epub) <img src="https://img.shields.io/badge/-EPUB-red" style="vertical-align:middle;"> <a href="./books/Kindle/2024/人生的枷锁.mobi" target="_blank"><img src="https://img.shields.io/badge/-MOBI-blue" style="vertical-align:middle;"></a>
+  - [x] [人生的枷锁 [毛姆 / 张柏然]](./books/Kindle/2024/人生的枷锁.epub) <img src="https://img.shields.io/badge/-EPUB-red" style="vertical-align:middle;"> <a href="./books/Kindle/2024/人生的枷锁.mobi" target="_blank"><img src="https://img.shields.io/badge/-MOBI-blue" style="vertical-align:middle;"></a>
   - [ ] [1984 [叶甫盖尼·扎米亚金 / 华东师范出版社]](./books/Kindle/2020-08-26/1984+我们+美丽新世界.azw3) <img src="https://img.shields.io/badge/-AZW3-red" style="vertical-align:middle;">
   - [ ] [我们 [叶甫盖尼·扎米亚金 / 华东师范出版社]](./books/Kindle/2020-08-26/1984+我们+美丽新世界.azw3) <img src="https://img.shields.io/badge/-AZW3-red" style="vertical-align:middle;">
   - [ ] [美丽新世界 [叶甫盖尼·扎米亚金 / 华东师范出版社]](./books/Kindle/2020-08-26/1984+我们+美丽新世界.azw3) <img src="https://img.shields.io/badge/-AZW3-red" style="vertical-align:middle;">
